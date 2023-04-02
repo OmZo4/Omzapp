@@ -1,19 +1,4 @@
-omzapp
-│   main.py
-│
-├───modules
-│   │   __init__.py     CONSTRUCTOR
-│   │   loginpage.py  [entry for the app]
-│   │   todoapp.py
-│   │   map???.py
-│   │   passkeep.py (encryption json)
-│   │   passgen.py
-│   │...
-│
-└───utils
-    │   __init__.py
-    │   helper_functions.py
-test
+
 ----------------------------
 APP PROCESS
 1.launch to login
@@ -22,28 +7,5 @@ APP PROCESS
 4.choose other app in sidebar or push quit
 5.quit shutdown app
 ----------------------------
-Report day 2:
 
-+added "ADD" button
-
-+item can be listed in to do list(function)
-
--find a way to remove them
-
-Report end of day3:
-
-+changed checkbox and frame with listbox(performance)
-
-+added delete button with his function
-
--To Do taks NOT STORING CORRECTLY:
-current:
-lines(str) to .txt	(error addind 1 extra "empty" TASK)
-update needed:
-list to .txt
-
-+storing bug fixed 
-
-[LEARN MULTI-MODULE USES]
-+done
 
