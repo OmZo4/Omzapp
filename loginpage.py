@@ -47,6 +47,7 @@ class HomePage(ctk.CTk):
         self.withdraw()
         # Create a new instance of the LoginPage class to show the first page
         app = tda.ToDoList()
+        app.mainloop()
 
 
 if __name__ == "__main__":

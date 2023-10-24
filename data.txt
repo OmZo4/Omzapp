@@ -8,4 +8,7 @@ APP PROCESS
 5.quit shutdown app
 ----------------------------
 
+2023-10-23
+
+Update reworking on app
 

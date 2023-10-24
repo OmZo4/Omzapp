@@ -1,7 +1,7 @@
 import tkinter as tk
 import customtkinter as ctk
 import loginpage as lgp
-import helper_functions as hf
+#import helper_functions as hf
 
 
 ctk.set_appearance_mode("System")  # Modes: system (default), light, dark
@@ -111,4 +111,5 @@ class ToDoList(ctk.CTk):
         self.withdraw()
         # Create a new instance of the HomePage class to show the first page
         app = lgp.HomePage()
+        app.mainloop()
 
